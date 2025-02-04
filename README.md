@@ -1,6 +1,6 @@
-Submission done for Coursera's Supervised Machine Learning: Classification Project
+# Submission done for Coursera's Supervised Machine Learning: Classification Project
 
-Requirements: Python 3.13.1
+## Requirements: Python 3.13.1
 
 To install the requirements.txt file
 
